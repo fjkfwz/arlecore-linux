@@ -1,0 +1,33 @@
+Log file path: test.res/Arlequin_log.txt
+Core Program Directory: /home/lyn/arlecore_linux/
+Random number generator initialized with lidum=-164254
+Reading project profile section...
+done !
+Opening next project...
+test.arp
+////////////////////////////////////////////////////////////////////
+RUN NUMBER 1 (30/04/16 at 11:05:45)
+////////////////////////////////////////////////////////////////////
+
+
+Reading Project: 
+Reading input file ...
+	Reading Samples section ...
+	Reading Population 1 ... 
+	done ! (0 ms)
+
+	Reading Population 2 ... 
+	done ! (0 ms)
+
+	done reading Samples section! (0 ms)
+done ! (0 ms)
+
+------------------------------------------------------------------------
+  Checking all selected options...
+		Building vectors of alleles...
+		done in 0 ms
+   !!!No molecular information is available for testing genetic structure,
+      haplotype frequencies will be used, and conventional Fst will be computed
+  done!
+  check selected settings...
+  done!

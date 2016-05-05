@@ -1,0 +1,61 @@
+Log file path: amovadis.res/Arlequin_log.txt
+Core Program Directory: /home/lyn/arlecore_linux/
+Random number generator initialized with lidum=-1838290
+Reading project profile section...
+done !
+Opening next project...
+amovadis.arp
+////////////////////////////////////////////////////////////////////
+RUN NUMBER 1 (30/04/16 at 12:43:24)
+////////////////////////////////////////////////////////////////////
+
+
+Reading Project: 
+Reading input file ...
+	Reading Distance Matrix in external file "amovadis.dis"
+   1 #[WARNING # 1] from function "Project::newOpen()" : reading distance matrix in external file
+	Reading distance matrix ...
+	done ! (0 ms)
+
+	Reading Samples section ...
+	Reading Tharu ... 
+	done ! (0 ms)
+
+	Reading Oriental ... 
+   2 #[WARNING # 2] from function "Population::New_read_gametic_data() (SampleSize=91; Sum. Freq.=90)" : sum of haplotype frequencies do not match specified sample size : adjusting sample size
+	done ! (0 ms)
+
+	Reading Wolof ... 
+	done ! (0 ms)
+
+	Reading Peul ... 
+	done ! (0 ms)
+
+	Reading Pima ... 
+	done ! (0 ms)
+
+	Reading Maya ... 
+	done ! (0 ms)
+
+	Reading Finnish ... 
+	done ! (0 ms)
+
+	Reading Sicilian ... 
+	done ! (0 ms)
+
+	Reading Israeli Jew ... 
+	done ! (0 ms)
+
+	Reading Israeli Arab ... 
+	done ! (0 ms)
+
+	done reading Samples section! (0 ms)
+done ! (1 ms)
+
+------------------------------------------------------------------------
+  Checking all selected options...
+		Building vectors of alleles...
+		done in 0 ms
+  done!
+  check selected settings...
+  done!

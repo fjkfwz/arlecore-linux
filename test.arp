@@ -1,0 +1,25 @@
+[Profile]
+	Title="Frequency data"
+	NbSamples=2
+	GenotypicData=0
+	DataType=FREQUENCY
+[Data]
+[[Samples]]
+	SampleName="Population 1"
+	SampleSize=16
+	SampleData= {
+		000 1
+		001 3
+		002 1
+		003 7
+		004 4
+	}
+	SampleName="Population 2"
+	SampleSize=23
+	SampleData= {
+		000 3
+		001 6
+		002 2
+		003 8
+		004 4
+	}

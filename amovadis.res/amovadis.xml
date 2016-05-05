@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="file:////home/lyn/arlecore_linux/ArlequinStyleSheet.xsl"?>
+<!--Arlequin results file-->
+
+<Arlequin>
+
+<data>
+
+
+</data>
+
+<header>
+Arlequin results
+</header>
+<data>
+
+</data>
+
+ <A NAME="30_04_16at12_43_24"></A> 
+<data>
+
+</data> <run time="30/04/16 at 12:43:24">
+
+////////////////////////////////////////////////////////////////////
+RUN NUMBER 1 (30/04/16 at 12:43:24)
+////////////////////////////////////////////////////////////////////
+
+</run> <data>
+ #[WARNING # 1] : reading distance matrix in external file
+ #[WARNING # 2] : sum of haplotype frequencies do not match specified sample size : adjusting sample size
+</data>
+
+ <A NAME="30_04_16at12_43_24_run_information"></A> 
+<data>
+
+
+Project information:
+--------------------
+	NbSamples      =  10
+	DataType       =  FREQUENCY
+	GenotypicData  =  0
+
+</data> <title time="30/04/16 at 12:43:24">
+
+==============================
+Settings used for Calculations
+==============================
+
+</title> <data>
+
+ General settings:
+ -----------------
+        Deletion Weight                = 1
+        Transition Weight Weight       = 1
+        Tranversion Weight Weight      = 1
+        Epsilon Value                  = 1e-07
+        Significant digits for output  = 5
+        Use original haplotype definition
+        Alllowed level of missing data = 0.05
+
+ Active Tasks:
+ -------------
+
+    Population pairwise Fst values:
+    -------------------------------
+        No. of permutations for significance = 100
+        No. of permutations for Mantel test  = 1000
+
+       Distance matrix:
+            Compute distance matrix
+            Molecular distance :             Gamma a value      = 0
+

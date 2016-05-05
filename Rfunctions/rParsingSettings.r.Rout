@@ -1,0 +1,30 @@
+
+R version 3.1.2 (2014-10-31) -- "Pumpkin Helmet"
+Copyright (C) 2014 The R Foundation for Statistical Computing
+Platform: i386-w64-mingw32/i386 (32-bit)
+
+R est un logiciel libre livré sans AUCUNE GARANTIE.
+Vous pouvez le redistribuer sous certaines conditions.
+Tapez 'license()' ou 'licence()' pour plus de détails.
+
+R est un projet collaboratif avec de nombreux contributeurs.
+Tapez 'contributors()' pour plus d'information et
+'citation()' pour la façon de le citer dans les publications.
+
+Tapez 'demo()' pour des démonstrations, 'help()' pour l'aide
+en ligne ou 'help.start()' pour obtenir l'aide au format HTML.
+Tapez 'q()' pour quitter R.
+
+[Sauvegarde de la session précédente restaurée]
+
+> infile <- "D:/Users/Laurent/Dropbox/CMPG/Courses/MolPopGenPraktikum/MolPopGen practicals 2015/Data Analysed/Day 4/HGDP_783_STR_NumberCoded.res/HGDP_783_STR_NumberCoded.xml"
+> outfiles <- "D:/Users/Laurent/Dropbox/CMPG/Courses/MolPopGenPraktikum/MolPopGen practicals 2015/Data Analysed/Day 4/HGDP_783_STR_NumberCoded.res/Graphics/"
+> sourcePath <- "D:/Users/Laurent/Dropbox/Programs/GitHub/arlequin-dev/Rfunctions/"
+> 
+> source(paste(sourcePath, "parseArlequin.r", sep="") )
+> parseArlequin(infile, outfiles, sourcePath)
+[1] "D:/Users/Laurent/Dropbox/CMPG/Courses/MolPopGenPraktikum/MolPopGen practicals 2015/Data Analysed/Day 4/HGDP_783_STR_NumberCoded.res/HGDP_783_STR_NumberCoded.xml"
+> 
+> proc.time()
+utilisateur     système      écoulé 
+       1.20        0.09        1.84 

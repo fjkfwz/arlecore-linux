@@ -1,0 +1,137 @@
+Log file path: amovahap.res/Arlequin_log.txt
+Core Program Directory: /home/lyn/arlecore_linux/
+Random number generator initialized with lidum=-1943647
+Reading project profile section...
+done !
+Opening next project...
+amovahap.arp
+////////////////////////////////////////////////////////////////////
+RUN NUMBER 1 (30/04/16 at 10:55:55)
+////////////////////////////////////////////////////////////////////
+
+
+Reading Project: 
+Reading input file ...
+Reading Haplotype List ...
+	Reading haplotype list in external file "56hapdef1.txt"
+done ! (0 ms)
+	Reading Samples section ...
+	Reading Tharu ... 
+	done ! (0 ms)
+
+	Reading Oriental ... 
+	done ! (0 ms)
+
+	Reading Wolof ... 
+	done ! (0 ms)
+
+	Reading Peul ... 
+	done ! (0 ms)
+
+	Reading Pima ... 
+	done ! (0 ms)
+
+	Reading Maya ... 
+	done ! (0 ms)
+
+	Reading Finnish ... 
+	done ! (0 ms)
+
+	Reading Sicilian ... 
+	done ! (0 ms)
+
+	Reading Israeli Jew ... 
+	done ! (0 ms)
+
+	Reading Israeli Arab ... 
+	done ! (0 ms)
+
+	done reading Samples section! (0 ms)
+	Reading genetic structure ...
+	done reading genetic structure! (0 ms)
+	Keyword "MissingData" not found. Using default value ("?"). Check your project file.
+
+done ! (0 ms)
+
+------------------------------------------------------------------------
+  Checking all selected options...
+		Building vectors of alleles...
+		done in 0 ms
+  done!
+  check selected settings...
+  done!
+
+Population 'Group1' : 
+	Computing  haplotype frequencies ...
+	done!
+done in 0 ms
+
+Population 'Group2' : 
+	Computing  haplotype frequencies ...
+	done!
+done in 0 ms
+
+Population 'Group3' : 
+	Computing  haplotype frequencies ...
+	done!
+done in 0 ms
+
+Population 'Group4' : 
+	Computing  haplotype frequencies ...
+	done!
+done in 0 ms
+
+Population 'Group5' : 
+	Computing  haplotype frequencies ...
+	done!
+done in 0 ms
+
+Population 'Tharu' : 
+	Computing  haplotype frequencies ...
+	done!
+done in 0 ms
+
+Population 'Oriental' : 
+	Computing  haplotype frequencies ...
+	done!
+done in 0 ms
+
+Population 'Wolof' : 
+	Computing  haplotype frequencies ...
+	done!
+done in 0 ms
+
+Population 'Peul' : 
+	Computing  haplotype frequencies ...
+	done!
+done in 0 ms
+
+Population 'Pima' : 
+	Computing  haplotype frequencies ...
+	done!
+done in 0 ms
+
+Population 'Maya' : 
+	Computing  haplotype frequencies ...
+	done!
+done in 0 ms
+
+Population 'Finnish' : 
+	Computing  haplotype frequencies ...
+	done!
+done in 0 ms
+
+Population 'Sicilian' : 
+	Computing  haplotype frequencies ...
+	done!
+done in 0 ms
+
+Population 'Israeli Jew' : 
+	Computing  haplotype frequencies ...
+	done!
+done in 0 ms
+
+Population 'Israeli Arab' : 
+	Computing  haplotype frequencies ...
+	done!
+done in 0 ms

@@ -1,0 +1,6 @@
+/home/lyn/arlecore_linux
+use_interf_settings
+cohen.arp
+0
+0
+end

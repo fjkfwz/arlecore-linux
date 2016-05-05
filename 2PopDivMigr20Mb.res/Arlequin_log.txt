@@ -1,0 +1,60 @@
+Log file path: 2PopDivMigr20Mb.res/Arlequin_log.txt
+Core Program Directory: /home/lyn/arlecore_linux/
+Random number generator initialized with lidum=-1704834
+Reading project profile section...
+done !
+Opening next project...
+2PopDivMigr20Mb.arp
+////////////////////////////////////////////////////////////////////
+RUN NUMBER 1 (30/04/16 at 10:21:48)
+////////////////////////////////////////////////////////////////////
+
+
+Reading Project: 
+Reading input file ...
+	Reading Samples section ...
+	Reading Sample 1 ... 
+	done ! (98 ms)
+
+	Reading Sample 2 ... 
+	done ! (84 ms)
+
+	done reading Samples section! (183 ms)
+	Reading genetic structure ...
+	done reading genetic structure! (0 ms)
+done ! (183 ms)
+
+------------------------------------------------------------------------
+  Checking all selected options...
+		Building vectors of alleles...
+		done in 102 ms
+  done!
+  check selected settings...
+  done!
+
+Population 'Group1' : 
+done in 0 ms
+			Beginning distance computations ...
+			done ! (33 ms)
+	Computing pairwise Fst's ... 
+
+61 ms to compute pairwise differences and test significance
+
+All FST distances have been computed and written to file
+
+	done ! (61 ms)
+		done ! (61 ms)
+
+Population 'Sample 1' : 
+done in 0 ms
+
+Population 'Sample 2' : 
+done in 0 ms
+			Beginning distance computations ...
+			done ! (30 ms)
+	Computing pairwise Fst's ... 
+
+107 ms to compute pairwise differences and test significance
+
+All FST distances have been computed and written to file
+
